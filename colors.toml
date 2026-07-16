@@ -1,32 +1,32 @@
 # UI Colors (extended)
 accent = "#a00000"
-cursor = "#111111"
+cursor = "#1c1814"
 
 # Primary colors
-foreground = "#111111"
+foreground = "#1c1814"
 background = "#fffff8"
 
 # Selection colors
-selection_foreground = "#111111"
-selection_background = "#d4cec4"
+selection_foreground = "#1c1814"
+selection_background = "#d8c6ab"
 
 # Normal colors (ANSI 0-7)
-# 7 warm-shifted grays + vermillion accent (color1)
-color0 = "#e8e8df"   # lightest warm gray (near bg)
+# 7 warm beige shades + vermillion accent (color1)
+color0 = "#e8dac3"   # warm beige 3 (desert sand) — lightest (near bg)
 color1 = "#a00000"   # vermillion — errors only
-color2 = "#cfcfc8"   # warm gray 1
-color3 = "#b0b0a8"   # warm gray 2
-color4 = "#909088"   # warm gray 3
-color5 = "#707068"   # warm gray 4
-color6 = "#505048"   # warm gray 5
-color7 = "#111111"   # off-black foreground
+color2 = "#c2ad8f"   # warm beige 5 (driftwood)
+color3 = "#a38d6f"   # warm beige 6 (deep ochre)
+color4 = "#756249"   # dark accent (warm espresso)
+color5 = "#4a3d2c"   # deep shadow (dark roast)
+color6 = "#332a20"   # darker roast (new shade to bridge the gap)
+color7 = "#1c1814"   # warm off-black foreground
 
 # Bright colors (ANSI 8-15)
-color8 = "#e8e8df"
+color8 = "#e8dac3"
 color9 = "#a00000"
-color10 = "#cfcfc8"
-color11 = "#b0b0a8"
-color12 = "#909088"
-color13 = "#707068"
-color14 = "#505048"
-color15 = "#111111"
+color10 = "#c2ad8f"
+color11 = "#a38d6f"
+color12 = "#756249"
+color13 = "#4a3d2c"
+color14 = "#332a20"
+color15 = "#1c1814"
