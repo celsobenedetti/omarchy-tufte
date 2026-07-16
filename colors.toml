@@ -1,31 +1,32 @@
 # UI Colors (extended)
-accent = "#6e6e6e"
-cursor = "#000000"
+accent = "#a00000"
+cursor = "#111111"
 
 # Primary colors
-foreground = "#000000"
-background = "#ffffff"
+foreground = "#111111"
+background = "#fffff8"
 
 # Selection colors
-selection_foreground = "#ffffff"
-selection_background = "#1a1a1a"
+selection_foreground = "#111111"
+selection_background = "#ffec99"
 
 # Normal colors (ANSI 0-7)
-color0 = "#c0c0c0"
-color1 = "#2a2a2a"
-color2 = "#3a3a3a"
-color3 = "#4a4a4a"
-color4 = "#1a1a1a"
-color5 = "#2e2e2e"
-color6 = "#3e3e3e"
-color7 = "#000000"
+# 7 warm-shifted grays + vermillion accent (color1)
+color0 = "#e8e8df"   # lightest warm gray (near bg)
+color1 = "#a00000"   # vermillion — errors only
+color2 = "#cfcfc8"   # warm gray 1
+color3 = "#b0b0a8"   # warm gray 2
+color4 = "#909088"   # warm gray 3
+color5 = "#707068"   # warm gray 4
+color6 = "#505048"   # warm gray 5
+color7 = "#111111"   # off-black foreground
 
 # Bright colors (ANSI 8-15)
-color8 = "#c0c0c0"
-color9 = "#2a2a2a"
-color10 = "#3a3a3a"
-color11 = "#4a4a4a"
-color12 = "#1a1a1a"
-color13 = "#2e2e2e"
-color14 = "#3e3e3e"
-color15 = "#000000"
+color8 = "#e8e8df"
+color9 = "#a00000"
+color10 = "#cfcfc8"
+color11 = "#b0b0a8"
+color12 = "#909088"
+color13 = "#707068"
+color14 = "#505048"
+color15 = "#111111"
