@@ -1,6 +1,6 @@
 return {
 	{
-		cwd = "~/projects/tufte.nvim/",
+		dir = "~/projects/tufte.nvim/",
 		priority = 1000,
 	},
 	{
