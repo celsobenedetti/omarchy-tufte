@@ -8,7 +8,7 @@ background = "#fffff8"
 
 # Selection colors
 selection_foreground = "#111111"
-selection_background = "#ffec99"
+selection_background = "#d4cec4"
 
 # Normal colors (ANSI 0-7)
 # 7 warm-shifted grays + vermillion accent (color1)
