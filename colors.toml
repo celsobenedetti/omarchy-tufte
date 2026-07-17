@@ -1,35 +1,35 @@
-# tufte — canonical variant (off-black ink)
-# Creamy paper, off-black #111111 ink, a rare drop of vermillion.
+# tufte — coffee variant (warm "black coffee" ink)
+# Creamy paper, coffee-dark #2d1c0b ink, a rare drop of vermillion.
 
 # UI Colors (extended)
 accent = "#a00000"
-cursor = "#111111"
+cursor = "#2d1c0b"
 
 # Primary colors
-foreground = "#111111"
+foreground = "#2d1c0b"
 background = "#fffff8"
 
 # Selection colors
-selection_foreground = "#111111"
+selection_foreground = "#2d1c0b"
 selection_background = "#ffec99"
 
 # Normal colors (ANSI 0-7)
 # 7-tier luminance ramp (T1 light -> T7 dark) + vermillion accent on color1
-color0 = "#cfcfca"   # T1 faint chrome (near bg)
+color0 = "#d1cdc4"   # T1 faint chrome (near bg)
 color1 = "#a00000"   # vermillion — errors only
-color2 = "#7c7c79"   # T2 comments
-color3 = "#5d5d5b"   # T3 operators, punctuation
-color4 = "#4a4a48"   # T4 strings, numbers
-color5 = "#3c3c3b"   # T5 variables, properties
-color6 = "#292928"   # T6 keywords, types
-color7 = "#111111"   # T7 off-black foreground
+color2 = "#857b6f"   # T2 comments
+color3 = "#6c6052"   # T3 operators, punctuation
+color4 = "#5d5042"   # T4 strings, numbers
+color5 = "#514333"   # T5 variables, properties
+color6 = "#403020"   # T6 keywords, types
+color7 = "#2d1c0b"   # T7 coffee foreground
 
 # Bright colors (ANSI 8-15)
-color8 = "#cfcfca"
+color8 = "#d1cdc4"
 color9 = "#a00000"
-color10 = "#7c7c79"
-color11 = "#5d5d5b"
-color12 = "#4a4a48"
-color13 = "#3c3c3b"
-color14 = "#292928"
-color15 = "#111111"
+color10 = "#857b6f"
+color11 = "#6c6052"
+color12 = "#5d5042"
+color13 = "#514333"
+color14 = "#403020"
+color15 = "#2d1c0b"
