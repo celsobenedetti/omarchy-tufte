@@ -7,7 +7,7 @@ cursor = "#2d1c0b"
 
 # Primary colors
 foreground = "#2d1c0b"
-background = "#fffff8"
+background = "#fffcf0"
 
 # Selection colors
 selection_foreground = "#2d1c0b"
