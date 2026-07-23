@@ -1,6 +1,6 @@
 return {
 	{
-		dir = "~/projects/tufte.nvim/",
+		"celsobenedetti/tufte.nvim",
 		priority = 1000,
 	},
 	{
