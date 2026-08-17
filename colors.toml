@@ -1,35 +1,34 @@
 # tufte — coffee variant (warm "black coffee" ink)
-# Creamy paper, coffee-dark #2d1c0b ink, a rare drop of vermillion.
+# Creamy paper, coffee-dark ink, a rare drop of vermillion.
+# Syntax/UI hues ride a single warm luminance ramp instead of full color —
+# vermillion (red) is the only saturated color, reserved for errors/accent.
 
-# UI Colors (extended)
+mode = "light"
+
 accent = "#a00000"
-cursor = "#403020"
+selection = "#ffec99"
+muted = "#d1cdc4"
 
-# Primary colors
-foreground = "#2d1c0b"
 background = "#f5eddf"
+dark_background = "#e8e2d6"
+darker_background = "#ded8cd"
+lighter_background = "#e3ddd2"
 
-# Selection colors
-selection_foreground = "#2d1c0b"
-selection_background = "#ffec99"
+foreground = "#2d1c0b"
+dark_foreground = "#857b6f"
+light_foreground = "#514333"
+bright_foreground = "#403020"
 
-# Normal colors (ANSI 0-7)
-# 7-tier luminance ramp (T1 light -> T7 dark) + vermillion accent on color1
-color0 = "#d1cdc4"   # T1 faint chrome (near bg)
-color1 = "#a00000"   # vermillion — errors only
-color2 = "#857b6f"   # T2 comments
-color3 = "#6c6052"   # T3 operators, punctuation
-color4 = "#5d5042"   # T4 strings, numbers
-color5 = "#514333"   # T5 variables, properties
-color6 = "#403020"   # T6 keywords, types
-color7 = "#2d1c0b"   # T7 coffee foreground
+red = "#a00000"
+green = "#857b6f"
+yellow = "#6c6052"
+blue = "#5d5042"
+magenta = "#514333"
+cyan = "#403020"
 
-# Bright colors (ANSI 8-15)
-color8 = "#d1cdc4"
-color9 = "#a00000"
-color10 = "#857b6f"
-color11 = "#6c6052"
-color12 = "#5d5042"
-color13 = "#514333"
-color14 = "#403020"
-color15 = "#2d1c0b"
+bright_red = "#a00000"
+bright_green = "#857b6f"
+bright_yellow = "#6c6052"
+bright_blue = "#5d5042"
+bright_magenta = "#514333"
+bright_cyan = "#403020"
